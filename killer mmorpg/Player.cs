@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//https://www.youtube.com/watch?v=R7CUzpERCIY&list=PLqO-Zs8tURcBIX60mCdxqluJufXgq573W&index=1
 public class Player : MonoBehaviour
 {
     //Variables
